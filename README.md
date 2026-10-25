@@ -7,5 +7,3 @@ Tools: Python, Pandas, Google Colab
 Proses: Cek duplikat, missing value, benerin outlier umur 199 tahun, standardisasi kota.
 
 Hasil: Data bersih 95+ baris siap analisis.
-
-#DataAnalyst #Python #Gresik
